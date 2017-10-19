@@ -1,0 +1,17 @@
+#Items
+item.ingot_technetium.name=Technetium Ingot
+item.bottle_hydrogen.name=Bottle of Hydrogen
+item.bottle_oxygen.name=Bottle of Oxygen
+item.ingot_molybdenum.name=Molybdenum Ingot
+
+#Blocks
+tile.block_molybdenum.name=Block of Molybdenum
+tile.block_technetium.name=Block of Technetium
+tile.block_tc99m_gen.name=Technetium-99m Generator
+tile.ore_molybdenum.name=Molybdenum Ore
+
+#Containers
+container.Tc99mGen.name=Technetium-99m Generator
+
+#Fluids
+fluid.gas_hydrogen=Hydrogen Gas
