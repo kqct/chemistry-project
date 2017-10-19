@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chemproject",
+  "name": "Josh's Chemistry Project",
+  "description": "Q1 Chemistry Minecraft mod, combining H and Tc",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/joshs-chemistry-project",
+  "updateUrl": "",
+  "authorList": ["Josh Lin"],
+  "credits": "The Forge and FML guys, for making this possible; also other people for convincing me to do this",
+  "logoFile": "/assets/chemproject/textures/items/bottle_hydrogen.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
